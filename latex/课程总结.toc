@@ -1,3 +1,0 @@
-\contentsline {section}{\numberline {1}实验仪器设备使用总结}{2}{section.1}%
-\contentsline {section}{\numberline {2}实验过程中的问题及解决方法}{2}{section.2}%
-\contentsline {section}{\numberline {3}实验心得体会}{2}{section.3}%
