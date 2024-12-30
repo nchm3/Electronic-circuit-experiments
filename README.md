@@ -1,4 +1,4 @@
-# Electronic-circuit-experiments
+# AHU-Electronic-circuit-experiments
 
 这里是AHU 电子信息工程学院电子线路实验资料仓库
 
